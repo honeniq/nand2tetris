@@ -1,3 +1,4 @@
 *.cmp
 *.out
 *.tst
+.DS_Store
